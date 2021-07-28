@@ -1,2 +1,4 @@
 line1 added to the file as local master
 line2 added to the file as local master
+line3 added to the file as local master
+
